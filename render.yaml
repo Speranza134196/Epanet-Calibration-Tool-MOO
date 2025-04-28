@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: epanet-calibration
+    env: python
+    buildCommand: ""
+    startCommand: ./setup.sh
+    plan: free
