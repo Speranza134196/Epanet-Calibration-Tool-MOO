@@ -4,3 +4,4 @@ numpy
 wntr
 matplotlib
 pymoo
+scikit-learn
